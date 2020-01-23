@@ -154,7 +154,7 @@ def playlist_download():
             file.write(link)
             file.write("\n")
             file.write("\n############################################################")
-    file.close()
+        file.close()
 
     print("Downloads completed!!!!!")
     print(colors.BGreen+"Thank You for using the script :)")
