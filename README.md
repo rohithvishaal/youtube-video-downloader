@@ -10,10 +10,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pafy an
 pip3 install pafy
 pip3 install youtube-dl
 ```
-Use apt to install **'toilet'** an ascii font generating tool 
+Use apt to install **'toilet and figlet** an ascii font generating tool 
 
 ```bash
 sudo apt-get install toilet
+sudo apt-get install figlet
 ```
 
 ## Installation on Windows
@@ -30,9 +31,10 @@ Use pkg to install **python** on Termux
 pkg install python
 ```
 
-Use pkg to install **'toilet'** on termux app on android
+Use pkg to install **'toilet and figlet** on termux app on android
 ```bash
 pkg install toilet
+pkg install figlet
 ```
 Use  the Below command to link your phone storage because by default **Termux** cannot access your phone storage 
 ```bash
