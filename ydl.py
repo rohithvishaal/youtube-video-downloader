@@ -94,7 +94,7 @@ def single_download():
                 os.system("ytdl -n "+n+" "+surl)
                 break
     input("Thank You for using the script :)")
-    input(colors.Blue+"press any key to exit!")
+    input(colors.Blue+"press any key to exit!"+colors.nocolor)
     exit()
 
 
@@ -158,7 +158,7 @@ def playlist_download():
 
     print("Downloads completed!!!!!")
     print(colors.BGreen+"Thank You for using the script :)")
-    input(colors.Blue+"press any key to exit!")
+    input(colors.Blue+"press any key to exit!"+colors.nocolor)
     exit()
 
 
