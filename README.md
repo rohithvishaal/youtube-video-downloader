@@ -40,7 +40,10 @@ Use  the Below command to link your phone storage because by default **Termux** 
 ```bash
 termux-setup-storage
 ```
-
+The default path to the Downloads folder in your phone is
+```bash
+/storage/emulated/0/Download
+```
 ## Usage
 
 ```python
