@@ -51,7 +51,7 @@ def check(choice, mode):
 
 def single_download():
     if os.name == "nt":
-        os.sytem("cls")
+        os.system("cls")
     else:
         os.system("clear")
     os.system("toilet -f future -F metal Single Video Download -t")
