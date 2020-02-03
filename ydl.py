@@ -163,7 +163,7 @@ def playlist_download():
 
 
 if __name__ == "__main__":
-    os.sytem("clear")
+    os.system("clear")
     os.system("toilet -f big -F gay YT DOWNLOADER -t")
     print(colors.BPurple+"--->written by @rohith.vishaal\n"+colors.nocolor)
     os.system("toilet -f emboss -F metal MENU -t")
