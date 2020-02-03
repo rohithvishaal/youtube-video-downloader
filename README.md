@@ -17,8 +17,6 @@ sudo apt-get install toilet
 sudo apt-get install figlet
 ```
 
-## Installation on Windows
-**Works on Windows too but no fancy ascii fonts and colors ;)**
 
 ## Installation on TERMUX
 
