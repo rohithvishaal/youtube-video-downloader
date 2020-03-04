@@ -163,6 +163,7 @@ def playlist_download():
 
 
 if __name__ == "__main__":
+    pafy.set_api_key(" ")# insert your api key here
     os.system("clear")
     os.system("toilet -f big -F gay YT DOWNLOADER -t")
     print(colors.BPurple+"--->written by @rohith.vishaal\n"+colors.nocolor)
