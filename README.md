@@ -42,6 +42,9 @@ The default path to the Downloads folder in your phone is
 ```bash
 /storage/emulated/0/Download
 ```
+
+## Setting your api key
+[Information from Google about obtaining an API key](https://developers.google.com/youtube/registering_an_application)
 ## Usage
 
 ```python
